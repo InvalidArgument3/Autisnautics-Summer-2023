@@ -1,0 +1,14 @@
+name = "OfflineSkins"
+filename = "OfflineSkins-1.18.2-v2.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "71047b8084fceaa00dd6ade4304b7ccabdf7910d"
+
+[update]
+[update.curseforge]
+file-id = 3772643
+project-id = 241420

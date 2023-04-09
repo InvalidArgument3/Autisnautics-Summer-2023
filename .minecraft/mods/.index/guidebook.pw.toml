@@ -1,0 +1,14 @@
+name = "Guidebook"
+filename = "Guidebook-1.18.2-3.4.3.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "ea81d6153a02e4ea45582b7367ec669cd8395d4a"
+
+[update]
+[update.curseforge]
+file-id = 3788159
+project-id = 253874

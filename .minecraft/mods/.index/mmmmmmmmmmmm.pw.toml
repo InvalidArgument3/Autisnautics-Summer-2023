@@ -1,0 +1,14 @@
+name = "MmmMmmMmmMmm"
+filename = "MmmMmmMmmMmm-1.18.2-1.5.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/Adega8YN/versions/XYByr7D5/MmmMmmMmmMmm-1.18.2-1.5.2.jar"
+hash-format = "sha512"
+hash = "4be7f0fad073394fd3910b385c3b39ffe1ec8b91dbdf7fe400db337d8d91ad4659348d01af328f6dcdafd6af86274c6e29794f6a2604ec6bafd3b2bae18c31c3"
+
+[update]
+[update.modrinth]
+mod-id = "Adega8YN"
+version = "XYByr7D5"

@@ -1,0 +1,14 @@
+name = "Keyboard Wizard"
+filename = "keywizard-forge-2.0.1-1.18.2.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "112c75a93336b5b6ef796b7e08655575f5ce62f3"
+
+[update]
+[update.curseforge]
+file-id = 4102909
+project-id = 262366

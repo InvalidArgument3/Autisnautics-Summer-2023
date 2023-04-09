@@ -1,0 +1,14 @@
+name = "SignPic"
+filename = "signpic-1.2_1.18.1.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "346e7999c90237a9446668347f93823c5eed6308"
+
+[update]
+[update.curseforge]
+file-id = 3636098
+project-id = 518502

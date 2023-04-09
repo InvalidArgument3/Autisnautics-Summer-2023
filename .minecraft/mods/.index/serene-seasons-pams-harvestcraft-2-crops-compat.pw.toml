@@ -1,0 +1,14 @@
+name = "Serene Seasons - Pam's HarvestCraft 2: Crops Compat"
+filename = "sereneseasonsphc2crops-1.18.2-1.0.1.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "47a856ed5a36affca8bc831a808168c0e52da25e"
+
+[update]
+[update.curseforge]
+file-id = 4124303
+project-id = 549716

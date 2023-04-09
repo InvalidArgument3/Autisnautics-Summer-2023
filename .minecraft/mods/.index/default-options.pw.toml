@@ -1,0 +1,14 @@
+name = "Default Options"
+filename = "defaultoptions-forge-1.18.2-14.1.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/WEg59z5b/versions/aiy49T0Q/defaultoptions-forge-1.18.2-14.1.2.jar"
+hash-format = "sha512"
+hash = "253ee66fff9b74f8645cca448b65b2d13e6e6a03b8928795a4e5ed4f03cc111fe40a2acfad6443429888e7a397863a1341faab4a69dc5493625ccd47ace27648"
+
+[update]
+[update.modrinth]
+mod-id = "WEg59z5b"
+version = "aiy49T0Q"

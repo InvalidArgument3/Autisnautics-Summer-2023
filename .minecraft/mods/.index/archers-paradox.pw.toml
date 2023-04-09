@@ -1,0 +1,14 @@
+name = "Archer's Paradox"
+filename = "archers_paradox-1.18.2-3.2.0.12.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/euzGeN6k/versions/HLJKUV32/archers_paradox-1.18.2-3.2.0.12.jar"
+hash-format = "sha512"
+hash = "91f31e82fb37989e9e61a907b91613d149f642f2535db46acd4c1f1640ee5de02f0bdb5667391316abeb5d7ae4bede8e19d1cb274091c1c0627216bb9af23d6e"
+
+[update]
+[update.modrinth]
+mod-id = "euzGeN6k"
+version = "HLJKUV32"

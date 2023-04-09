@@ -1,0 +1,14 @@
+name = "Serene seasons fix"
+filename = "sereneseasonfix-1.18.2-1.0.6.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/nAUZ2TG5/versions/gP4Vaooy/sereneseasonfix-1.18.2-1.0.6.jar"
+hash-format = "sha512"
+hash = "4327e0bb0ddb4f23cbed4675db46ecceea72095e0b3a9ced5f754200516a8e7f35b0b3026cfdfddbb6a6d6a9421e51ca0f69162f78e4ffd0767b29a227a0f7cc"
+
+[update]
+[update.modrinth]
+mod-id = "nAUZ2TG5"
+version = "gP4Vaooy"

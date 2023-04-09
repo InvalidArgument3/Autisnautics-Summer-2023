@@ -1,0 +1,14 @@
+name = "Right Click, Get Crops"
+filename = "right_click_get_crops-1.18.2-1.4.0.10.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/phrqJM0N/versions/CF6Tp5WI/right_click_get_crops-1.18.2-1.4.0.10.jar"
+hash-format = "sha512"
+hash = "2e2f92751eda9edac7856f2ef4118522f74bd53030e3eeeeba865ce32a085e3068cb325b8644890e78e1e445eb5af692ecebd1cc78913f04f65dcdd52970a1de"
+
+[update]
+[update.modrinth]
+mod-id = "phrqJM0N"
+version = "CF6Tp5WI"

@@ -1,0 +1,14 @@
+name = "Collective"
+filename = "collective-1.18.2-6.53.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/e0M1UDsY/versions/zTteSpme/collective-1.18.2-6.53.jar"
+hash-format = "sha512"
+hash = "35c5375bc49c5d03da09b64bc575d5221c2965ba024c650e5e8ae140e077504c826f7557a3ef0fc1e9c50cb2dd1a72c94b759071ea5591c9f87e1725c7eeb1ae"
+
+[update]
+[update.modrinth]
+mod-id = "e0M1UDsY"
+version = "zTteSpme"

@@ -1,0 +1,14 @@
+name = "Tetra"
+filename = "tetra-1.18.2-4.10.1.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "6548b0983506eb5e9f333337eca5ab2cd3dce536"
+
+[update]
+[update.curseforge]
+file-id = 4029100
+project-id = 289712

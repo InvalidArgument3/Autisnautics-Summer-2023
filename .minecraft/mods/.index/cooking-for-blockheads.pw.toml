@@ -1,0 +1,14 @@
+name = "Cooking for Blockheads"
+filename = "cookingforblockheads-forge-1.18.2-12.2.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/vJnhuDde/versions/XPhxXLsP/cookingforblockheads-forge-1.18.2-12.2.0.jar"
+hash-format = "sha512"
+hash = "8fe5ee9ea846f6e9679b8e8fccb2c6c0480fb3fcbd986cb398babdeecf6ea76f6bae5c4fd2dc43799772b8eff188742010e6e63b0c6a95632b897b4ca1b0c556"
+
+[update]
+[update.modrinth]
+mod-id = "vJnhuDde"
+version = "XPhxXLsP"

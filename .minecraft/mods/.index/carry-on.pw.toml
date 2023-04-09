@@ -1,0 +1,14 @@
+name = "Carry On"
+filename = "carryon-1.18.2-1.17.0.8.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/joEfVgkn/versions/ibq5WYnJ/carryon-1.18.2-1.17.0.8.jar"
+hash-format = "sha512"
+hash = "26307885303194d9c713dcdbb84c5b88953531c1baf9832d44882c0b696bb17558ed5539f36ddc67ceab672c537be822da78abd28a113706856b1c5a9ed6b599"
+
+[update]
+[update.modrinth]
+mod-id = "joEfVgkn"
+version = "ibq5WYnJ"

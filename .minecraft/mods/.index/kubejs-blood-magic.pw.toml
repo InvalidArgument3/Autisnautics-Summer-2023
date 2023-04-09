@@ -1,0 +1,14 @@
+name = "KubeJS Blood Magic"
+filename = "kubejs-blood-magic-1802.1.2-build.4.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "925aee5e26f0cf45ae1a6916e1c1cd94d7102776"
+
+[update]
+[update.curseforge]
+file-id = 4056686
+project-id = 428277

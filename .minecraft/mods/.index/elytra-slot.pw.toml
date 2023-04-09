@@ -1,0 +1,14 @@
+name = "Elytra Slot"
+filename = "curiouselytra-forge-1.18.1-5.0.1.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/mSQF1NpT/versions/GoaZeJCf/curiouselytra-forge-1.18.1-5.0.1.0.jar"
+hash-format = "sha512"
+hash = "ebb3f16a8f6e3dcf15c3e26970fa89c788b680b77a0581379f04de64ba2e146aaec6f279c180c9e2283a4ffe2cc885f7b7f1a26a2d40792714e28c71a3e3d91a"
+
+[update]
+[update.modrinth]
+mod-id = "mSQF1NpT"
+version = "GoaZeJCf"

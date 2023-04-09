@@ -1,0 +1,14 @@
+name = "AlmostUnified"
+filename = "almostunified-forge-1.18.2-0.3.8.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/sdaSaQEz/versions/75K9jgbe/almostunified-forge-1.18.2-0.3.8.jar"
+hash-format = "sha512"
+hash = "b71ed3954025a4881858140681e59903830a1a02d95bf2d242492975838012b57dc19cc8ddc190418f011aa8700c46823c6d65c0eb684d9e81e454c451f80774"
+
+[update]
+[update.modrinth]
+mod-id = "sdaSaQEz"
+version = "75K9jgbe"

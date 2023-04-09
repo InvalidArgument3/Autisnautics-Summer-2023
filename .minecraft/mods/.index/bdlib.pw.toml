@@ -1,0 +1,14 @@
+name = "bdlib"
+filename = "bdlib-1.19.3.7-mc1.18.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/80j65Nbw/versions/1.19.3.7/bdlib-1.19.3.7-mc1.18.2.jar"
+hash-format = "sha512"
+hash = "75148b3b8de25bc11c3ea534196583df803dc12e43c7d88b3a56cb87aaacb48f9037061022cfb323d85a11f9893d5ef4bb679d98a272a909fdb2ca86292e1da5"
+
+[update]
+[update.modrinth]
+mod-id = "80j65Nbw"
+version = "JDVnNHnk"

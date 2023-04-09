@@ -1,0 +1,14 @@
+name = "Diet"
+filename = "diet-forge-1.18.2-1.3.2.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/SsIkH9rZ/versions/YKFxTaMZ/diet-forge-1.18.2-1.3.2.0.jar"
+hash-format = "sha512"
+hash = "33c4d8ac9de3bbaf7af5110c24904d91b6d58a258655c4f868bf9d5a04272ce7fb9654540386bab1a49fe7b1f4af3217555ac8351c2e03397370fd09b339c7f4"
+
+[update]
+[update.modrinth]
+mod-id = "SsIkH9rZ"
+version = "YKFxTaMZ"
