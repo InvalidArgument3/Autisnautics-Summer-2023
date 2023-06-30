@@ -1,14 +1,14 @@
 name = "Eccentric Tome"
-filename = "eccentrictome-1.18.2-1.9.1.jar"
+filename = "eccentrictome-1.18.2-1.10.1.jar"
 side = "both"
 
 [download]
 mode = "url"
-url = "https://cdn.modrinth.com/data/ZtdULK5c/versions/X7wKNHgv/eccentrictome-1.18.2-1.9.1.jar"
+url = "https://cdn.modrinth.com/data/ZtdULK5c/versions/boKa5iK1/eccentrictome-1.18.2-1.10.1.jar"
 hash-format = "sha512"
-hash = "b5caf3c47a158551f1daa0986a9d5a5851c3ad6dc562c094801c50ce967bfe2cdb0d34ac9f652b9e31705da17a9d236ebf5d051d6f1c7d49a079a8ca15fc3987"
+hash = "8264181c093cf6b051635a44eab0f5a69a8b0160a1241d7e5a1f9abc8e6521bd855cb4ea6c7bbba411f0973f65dcb827365dfb3180c02da8391a8f357d7212a3"
 
 [update]
 [update.modrinth]
 mod-id = "ZtdULK5c"
-version = "X7wKNHgv"
+version = "boKa5iK1"

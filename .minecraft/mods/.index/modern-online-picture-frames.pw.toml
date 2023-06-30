@@ -1,0 +1,14 @@
+name = "Modern Online Picture Frames"
+filename = "OPF-13.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/LVxCiOWl/versions/2dQnyqzP/OPF-13.jar"
+hash-format = "sha512"
+hash = "10f3a91311e8b4911a62892d68f6084cf66baf42493dbcdd78bcb1a7bbd638dd043895f07e1a1fd8c2e961dccfa9d185dea58ad317630583e6df95bf7516136e"
+
+[update]
+[update.modrinth]
+mod-id = "LVxCiOWl"
+version = "2dQnyqzP"

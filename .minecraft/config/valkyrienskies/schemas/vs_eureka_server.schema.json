@@ -2,20 +2,14 @@
   "$schema" : "https://json-schema.org/draft/2019-09/schema",
   "type" : "object",
   "properties" : {
-    "anchorSpeed" : {
-      "type" : "number",
-      "format" : "double",
-      "description" : "Max speed an anchor will pull a ship back to the anchor point"
+    "allowDisassembly" : {
+      "type" : "boolean",
+      "description" : "Whether or not disassembly is permitted"
     },
     "antiVelocityMassRelevance" : {
       "type" : "number",
       "format" : "double",
       "description" : "How much inertia affects Eureka ships. Max 10 = full inertia"
-    },
-    "assembliesPerTick" : {
-      "type" : "integer",
-      "format" : "int32",
-      "description" : "How many blocks to assemble per tick"
     },
     "ballastNoWeight" : {
       "type" : "number",
@@ -26,6 +20,16 @@
       "type" : "number",
       "format" : "double",
       "description" : "Weight of ballast when lowest redstone power"
+    },
+    "balloonElevationMaxSpeed" : {
+      "type" : "number",
+      "format" : "double",
+      "description" : "The max elevation speed boost gained by having extra extra balloons"
+    },
+    "baseImpulseElevationRate" : {
+      "type" : "number",
+      "format" : "double",
+      "description" : "Vertical sensitivity up ascend/descend"
     },
     "baseSpeed" : {
       "type" : "number",
@@ -48,9 +52,24 @@
       "type" : "boolean",
       "description" : "Allow Eureka controlled ships to be affected by fluid drag"
     },
-    "enableDisassembly" : {
+    "elevationSnappiness" : {
+      "type" : "number",
+      "format" : "double",
+      "description" : "Ascend and descend acceleration"
+    },
+    "engineFuelMultiplier" : {
+      "type" : "number",
+      "format" : "float",
+      "description" : "Fuel burn time multiplier"
+    },
+    "engineFuelSaving" : {
       "type" : "boolean",
-      "description" : "Disassembly is broken ATM, enable at ur own risk."
+      "description" : "Avoids consuming fuel when heat is 100%"
+    },
+    "engineHeatChangeExponent" : {
+      "type" : "number",
+      "format" : "float",
+      "description" : "Increases heat gained at low heat level, and increased heat decreases when at high heat and not consuming fuel"
     },
     "engineHeatGain" : {
       "type" : "number",
@@ -62,20 +81,25 @@
       "format" : "float",
       "description" : "The amount of heat a engine loses per tick"
     },
+    "engineMinCapacity" : {
+      "type" : "integer",
+      "format" : "int32",
+      "description" : "Increasing this value will result in more items being able to converted to fuel"
+    },
     "enginePower" : {
       "type" : "number",
       "format" : "float",
-      "description" : "Movement power per engine heated fully"
+      "description" : "Movement power per engine when heated fully"
+    },
+    "engineTurnPower" : {
+      "type" : "number",
+      "format" : "float",
+      "description" : "Turning power per engine when heated fully"
     },
     "floaterBuoyantFactorPerKg" : {
       "type" : "number",
       "format" : "double",
       "description" : "The amount extra that each floater will make the ship float, per kg mass"
-    },
-    "impulseElevationRate" : {
-      "type" : "integer",
-      "format" : "int32",
-      "description" : "Vertical sensitivity up ascend/descend"
     },
     "linearStabilizeMaxAntiVelocity" : {
       "type" : "number",
@@ -89,7 +113,7 @@
     },
     "maxCasualSpeed" : {
       "type" : "number",
-      "format" : "float",
+      "format" : "double",
       "description" : "Max speed of a ship without boosting"
     },
     "maxFloaterBuoyantFactor" : {
@@ -97,15 +121,15 @@
       "format" : "double",
       "description" : "The maximum amount extra each floater will multiply the buoyant force by, irrespective of mass"
     },
+    "maxSizeForTurnSpeedPenalty" : {
+      "type" : "number",
+      "format" : "double",
+      "description" : "The maximum distance from center of mass to one end of the ship considered by the turn speed. At it's default of 16, it ensures that really large ships will turn at the same speed as a ship with a center of mass only 16 blocks away from the farthest point in the ship. That way, large ships do not turn painfully slowly"
+    },
     "minEnginePower" : {
       "type" : "number",
       "format" : "float",
       "description" : "Movement power per engine with minimal heat"
-    },
-    "neutralLimit" : {
-      "type" : "number",
-      "format" : "double",
-      "description" : "The Y level that a ship with 0 mass would naturally float to"
     },
     "popSideBalloonChance" : {
       "type" : "number",
@@ -122,10 +146,15 @@
       "format" : "double",
       "description" : "How much torque a ship will apply to try and keep level"
     },
+    "turnAcceleration" : {
+      "type" : "number",
+      "format" : "double",
+      "description" : "The maximum linear acceleration at any point on the ship caused by helm torque"
+    },
     "turnSpeed" : {
       "type" : "number",
       "format" : "double",
-      "description" : "Turn sensitivity of the ship helm"
+      "description" : "The maximum linear velocity at any point on the ship caused by helm torque"
     },
     "$schema" : {
       "type" : "string"

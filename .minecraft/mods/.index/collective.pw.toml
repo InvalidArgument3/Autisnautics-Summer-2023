@@ -1,14 +1,14 @@
 name = "Collective"
-filename = "collective-1.18.2-6.53.jar"
+filename = "collective-1.18.2-6.62.jar"
 side = "both"
 
 [download]
 mode = "url"
-url = "https://cdn.modrinth.com/data/e0M1UDsY/versions/zTteSpme/collective-1.18.2-6.53.jar"
+url = "https://cdn.modrinth.com/data/e0M1UDsY/versions/JuOp9xUf/collective-1.18.2-6.62.jar"
 hash-format = "sha512"
-hash = "35c5375bc49c5d03da09b64bc575d5221c2965ba024c650e5e8ae140e077504c826f7557a3ef0fc1e9c50cb2dd1a72c94b759071ea5591c9f87e1725c7eeb1ae"
+hash = "0ae65eb776ac7a1b393635be11366e8b0915082545af404b79d5f5e7b34b73d6aaa4c5b9836f06d4cc3051c27bd00f59f16d60193215fc09e8d9f8d055e79555"
 
 [update]
 [update.modrinth]
 mod-id = "e0M1UDsY"
-version = "zTteSpme"
+version = "JuOp9xUf"

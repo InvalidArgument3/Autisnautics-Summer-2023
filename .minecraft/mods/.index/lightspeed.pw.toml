@@ -1,0 +1,14 @@
+name = "Lightspeed"
+filename = "lightspeed-1.18.2-1.0.2.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/US93mifm/versions/qUxcfIsc/lightspeed-1.18.2-1.0.2.jar"
+hash-format = "sha512"
+hash = "ccd9af1bb8112da007ca6cdb3dd90af957cb196507eed10ee75a28ea1c16c6d18ee50cf2589b189f792e85b775008a7d3f673a5c49ff3908638382eacc88041c"
+
+[update]
+[update.modrinth]
+mod-id = "US93mifm"
+version = "qUxcfIsc"

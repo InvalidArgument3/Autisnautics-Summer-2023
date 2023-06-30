@@ -34,13 +34,9 @@
     "redstone": true,
     "fe": true
   },
-  "mekanism": {
-    "infuse_type": true,
-    "gas": true,
-    "pigment": true,
-    "fluid": true,
-    "slurry": true,
-    "energy": true
+  "treechop": {
+    "show_tree_block_counts": true,
+    "show_num_chops_remaining": true
   },
   "jade": {
     "block_states": false,
@@ -49,9 +45,5 @@
     "item_mod_name": false,
     "mod_name": true,
     "entity_hp": true
-  },
-  "vampirism": {
-    "show_player_info": true,
-    "show_creature_info": true
   }
 }

@@ -1,78 +1,19 @@
 {
   "bookGuiScale": 0,
-  "clickedVisualize": true,
+  "clickedVisualize": false,
   "bookData": {
-    "rftoolsbase:manual": {
-      "viewedEntries": [
-        "rftoolsstorage:scanner/scanner",
-        "rftoolsdim:dimlets/knowledge_holder",
-        "rftoolsbase:tools/filtermodule",
-        "rftoolsdim:dimensions/dimension_builder",
-        "rftoolsutility:machines/screen_controller"
-      ],
-      "bookmarks": [],
-      "completedManualQuests": []
-    },
     "hexcasting:thehexbook": {
-      "viewedEntries": [],
-      "bookmarks": [],
-      "completedManualQuests": []
-    },
-    "alchemistry:alchemistry_book": {
       "viewedEntries": [
-        "alchemistry:combiner/combiner",
-        "alchemistry:reactor/fusion",
-        "alchemistry:dissolver/dissolver",
-        "alchemistry:atomizer/atomizer"
+        "hexcasting:basics/start_to_see",
+        "hexcasting:basics/geodes",
+        "hexcasting:items/pigments",
+        "hexcasting:items/amethyst",
+        "hexcasting:items/lens",
+        "hexcasting:items/staff",
+        "hexcasting:basics/media",
+        "hexcasting:basics/couldnt_cast",
+        "hexcasting:patterns/readers_guide"
       ],
-      "bookmarks": [],
-      "completedManualQuests": []
-    },
-    "thermal:guidebook": {
-      "viewedEntries": [
-        "thermal:equipment/tools/fluxbore",
-        "thermal:technology/augments/integral_components",
-        "thermal:technology/machines/introduction",
-        "thermal:technology/machines/crafter"
-      ],
-      "bookmarks": [],
-      "completedManualQuests": []
-    },
-    "touhou_little_maid:memorizable_gensokyo": {
-      "viewedEntries": [
-        "touhou_little_maid:overview/multiblocks_altar",
-        "touhou_little_maid:overview/what_is_touhou",
-        "touhou_little_maid:overview/gohei_and_danmaku",
-        "touhou_little_maid:overview/download_custom_pack",
-        "touhou_little_maid:maid/maid_base",
-        "touhou_little_maid:maid/spawn_maid",
-        "touhou_little_maid:maid/maid_task",
-        "touhou_little_maid:maid/maid_config",
-        "touhou_little_maid:maid/mute_bauble",
-        "touhou_little_maid:maid/item_magnet",
-        "touhou_little_maid:maid/maid_sound"
-      ],
-      "bookmarks": [],
-      "completedManualQuests": []
-    },
-    "simpleplanes:planes_book": {
-      "viewedEntries": [
-        "simpleplanes:intro/workbench"
-      ],
-      "bookmarks": [],
-      "completedManualQuests": []
-    },
-    "cyclic:cyclic_guide_book": {
-      "viewedEntries": [
-        "cyclic:blocks/dry_peat_bog",
-        "cyclic:blocks/soil",
-        "cyclic:blocks/terra_preta"
-      ],
-      "bookmarks": [],
-      "completedManualQuests": []
-    },
-    "ars_nouveau:worn_notebook": {
-      "viewedEntries": [],
       "bookmarks": [],
       "completedManualQuests": []
     }

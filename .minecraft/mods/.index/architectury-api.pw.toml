@@ -1,14 +1,14 @@
 name = "Architectury"
-filename = "architectury-4.11.90-forge.jar"
+filename = "architectury-4.11.93-forge.jar"
 side = "both"
 
 [download]
 mode = "url"
-url = "https://cdn.modrinth.com/data/lhGA9TYQ/versions/SWry8g5q/architectury-4.11.90-forge.jar"
+url = "https://cdn.modrinth.com/data/lhGA9TYQ/versions/o069zrDa/architectury-4.11.93-forge.jar"
 hash-format = "sha512"
-hash = "a853613e12a9d786bd8995c1e232bf6a6a2843cef36bc85f88ddbf3402d24c67be42f27c5929f22aca09d0dfcaee8983bd291b513fad0459a7e981e93dfae9f1"
+hash = "6c8e416f22d9a257d69442d5f2620afcd92e2437304659a20418927b9066d0a928bc8eebd1e204911895b59a04e4be4c063b14303b6aafa814c56aac3c77c925"
 
 [update]
 [update.modrinth]
 mod-id = "lhGA9TYQ"
-version = "SWry8g5q"
+version = "o069zrDa"

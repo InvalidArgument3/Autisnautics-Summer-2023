@@ -1,14 +1,14 @@
 name = "Oculus"
-filename = "oculus-1.5.2.jar"
+filename = "oculus-mc1.18.2-1.6.4.jar"
 side = "both"
 
 [download]
 mode = "url"
-url = "https://cdn.modrinth.com/data/GchcoXML/versions/mGoSRprD/oculus-1.5.2.jar"
+url = "https://cdn.modrinth.com/data/GchcoXML/versions/UynWw2df/oculus-mc1.18.2-1.6.4.jar"
 hash-format = "sha512"
-hash = "a70014c79529d1273a5fe502cca32e61cfdb3bd1ebbf6894b8871d9e5ae5dffaa9843727a1d3087be27563a30084eed3a2ae8db9e83a4b0a82d38e8d22d5517c"
+hash = "c7ef7ec2f5976a2781ea39019e2a037a1be1f478c64855401303352ca6cd41eb372ce1ee738a769ec3d2cc1d92e8e50e2065112cc20e02cd2164486b6cef1e9d"
 
 [update]
 [update.modrinth]
 mod-id = "GchcoXML"
-version = "mGoSRprD"
+version = "UynWw2df"

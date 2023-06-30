@@ -1,0 +1,14 @@
+name = "Psionic Utilities"
+filename = "PsionicUtilities-1.18-1.2.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "1c26d86281256b6ace02074f7755418cde607d1e"
+
+[update]
+[update.curseforge]
+file-id = 4522062
+project-id = 611991

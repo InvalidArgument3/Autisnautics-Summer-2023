@@ -1,0 +1,14 @@
+name = "Global Data- & Resourcepacks"
+filename = "global_packs-forge-1.18.2-1.12.4_forge.jar"
+side = "both"
+
+[download]
+mode = "metadata:curseforge"
+url = ""
+hash-format = "sha1"
+hash = "ba6977c0880fb59764194f1f43210d2a6176c62a"
+
+[update]
+[update.curseforge]
+file-id = 4570525
+project-id = 317134
