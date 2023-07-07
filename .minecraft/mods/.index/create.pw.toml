@@ -1,14 +1,14 @@
 name = "Create"
-filename = "create-1.18.2-0.5.1.b.jar"
+filename = "create-1.18.2-0.5.1.c.jar"
 side = "both"
 
 [download]
 mode = "url"
-url = "https://cdn.modrinth.com/data/LNytGWDc/versions/BnkUJVhl/create-1.18.2-0.5.1.b.jar"
+url = "https://cdn.modrinth.com/data/LNytGWDc/versions/PTHAyfx7/create-1.18.2-0.5.1.c.jar"
 hash-format = "sha512"
-hash = "f22b6fdcbf380ccec5010574b228b894a3c4f578ecad48731117281b68757f1bcf99c051186fc3e8739bf41c402490d63deb020856d84b44ee1ddb630bd9c8cf"
+hash = "e358fcab50e467517a5ac24d23963fab786aed65facff378573adabd8980180a6f1857d21b0c5fe00bb4c7002cf3a672659e22d209c28df748f304f57eaf585d"
 
 [update]
 [update.modrinth]
 mod-id = "LNytGWDc"
-version = "BnkUJVhl"
+version = "PTHAyfx7"
