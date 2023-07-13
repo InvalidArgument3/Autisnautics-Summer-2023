@@ -1,14 +1,14 @@
 name = "Stratospherical Expansion"
-filename = "DimensionalStratosphericalExpansion-1.18.2-0.2.0.jar"
+filename = "StartosphericalExpansion-1.18.2-0.2.0.jar"
 side = "both"
 
 [download]
 mode = "metadata:curseforge"
 url = ""
 hash-format = "sha1"
-hash = "024c61b2a3302d447ddd15b651cd8ee4f394dd1b"
+hash = "f122892c7ff9285be8d1d1da3d78a32abbfed993"
 
 [update]
 [update.curseforge]
-file-id = 4584999
+file-id = 4584724
 project-id = 823268
