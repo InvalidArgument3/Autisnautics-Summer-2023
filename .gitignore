@@ -11,6 +11,7 @@
 .minecraft/schematics/*
 .minecraft/screenshots/*
 .minecraft/server-resource-cache/*
+natives/*
 
 
 
@@ -19,3 +20,4 @@
 *.ser
 .minecraft/config/voicechat/username-cache.json
 .minecraft/usercache.json
+.minecraft/config/oculus.properties
